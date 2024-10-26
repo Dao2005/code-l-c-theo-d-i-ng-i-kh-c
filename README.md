@@ -1,5 +1,5 @@
 /*
-	Script by JayremntB, 2021
+	Script by JayremntB, 2023
 	Unfollow all strangers
 	Please copy all the code to make sure that you will not get any errors
  */
